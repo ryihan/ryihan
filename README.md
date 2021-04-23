@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
-    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
+    <img align="center" src="https://github.com/ryihan/ryihan-material/Icon/linkedin.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/tatianymori">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/instagram.svg" alt="instagram" />
