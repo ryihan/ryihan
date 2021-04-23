@@ -58,3 +58,10 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
 </p>
+
+<h2>📊 Stats</h2>
+
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ryihan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
