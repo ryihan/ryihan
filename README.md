@@ -8,7 +8,7 @@
 <p align="center"> 💼 Working at <a href="https://github.com/Shadow-Developers-Inc">Shadow Developers Inc</a> </p> 
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>
 <h2>🔌 Connect with me</h2>
 
 <p align="center">
