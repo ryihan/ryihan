@@ -56,5 +56,5 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=keikomori&theme=dracula" alt="keikomori" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
 </p>
