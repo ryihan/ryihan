@@ -8,8 +8,11 @@
 <p align="center"> 💼 Working at <a href="https://github.com/Shadow-Developers-Inc">Shadow Developers Inc</a> </p> 
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>
-<h2>🔌 Connect with me</h2>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact" /></a>
+ </p>
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
@@ -63,6 +66,12 @@
 
 <p align="center">
 <a href="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"><img alt="Ryihan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+
+<p align="center">
+<a  href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical" /></a>
+  
 </p>
 
 
