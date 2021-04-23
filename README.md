@@ -51,3 +51,10 @@
   <a href="https://grafana.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
+    
+    
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=keikomori&theme=dracula" alt="keikomori" />
+</p>
