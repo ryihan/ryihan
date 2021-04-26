@@ -35,9 +35,6 @@
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
-    <th align="center">Typescript</th>
-    <th align="center">Javascript</th>
-    <th align="center">Dart</th>
   </tr>
   <tr>
     <td align="center">
@@ -46,15 +43,7 @@
     <td align="center">
       <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
     </td>
-    <td align="center">
-      <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" height="60">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="60">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width="60">
-    </td>
+    
   </tr>
 </table>
 
