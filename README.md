@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/ryihan55">
+  <a href="https://instagram.com/ryihan_">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
   <a href="mailto:ryihan55@gmail.com">
