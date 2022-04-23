@@ -1,0 +1,23 @@
+{
+  "name": "ryihan",
+  "version": "5.0.0",
+  "description": "github  username ryihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryihan/ryihan.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ryihan/ryihan/issues"
+  },
+  "homepage": "https://github.com/ryihan/ryihan#readme",
+  "author": "ryihan",
+  "license": "ISC",
+  "dependencies": {
+    "gogpolsss": "^11.0.0"
+  }
+}
