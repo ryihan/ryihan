@@ -5,11 +5,7 @@
 </h1>
 
 <h3 align="center">A developer passionate about technology.</h3>
-
 <p align="center"> 💼 Working at <a href="https://github.com/Shadow-Developers-Inc">Shadow Developers Inc</a> </p> 
-<p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
-
-
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
@@ -79,17 +75,9 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
 </p>
 
-<h2>📊 Stats</h2>
+ 
 
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
-
-
-<p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical" /></a>
-  
-</p>
+ 
 
 
 <h2>⭐ Badges</h2>
