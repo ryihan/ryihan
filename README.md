@@ -11,7 +11,7 @@
  </p>
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="ryihan" /></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
+  <a href="https://www.linkedin.com">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/ryihan_">
